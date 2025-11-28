@@ -1,0 +1,1 @@
+/home/moh/work/calculate_columbus/target/debug/calculate_columbus: /home/moh/work/calculate_columbus/src/db.rs /home/moh/work/calculate_columbus/src/main.rs /home/moh/work/calculate_columbus/src/spending.rs /home/moh/work/calculate_columbus/src/tax.rs
